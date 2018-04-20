@@ -1,7 +1,7 @@
 # DeepLearning
 This is a repo for maintaining and adding things which I can work on and study along the way on the path to deep learning
 
-Fast.ai Lessons
+<b>Fast.ai Lessons</b>
 1. CNN Architecture RestNext50 Paper 
    Aggregated Residual Transformations for Deep Neural Networks- https://arxiv.org/pdf/1611.05431.pdf
 2. Varying Learning Rates and averaging Paper
