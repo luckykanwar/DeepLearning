@@ -6,3 +6,4 @@ This is a repo for maintaining and adding things which I can work on and study a
 2. Varying Learning Rates and averaging Paper - Snapshot Ensembles - https://arxiv.org/pdf/1704.00109.pdf
 3. Deconvolution Paper - Visualizing and Understanding Convolutional Networks - https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 4. CNN Architecture ResNet Paper - Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
+5. AlexNet - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
